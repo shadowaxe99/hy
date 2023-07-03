@@ -3,12 +3,12 @@ make me a local program to be able to sort through my files, organzie them by to
 
 An error occurred while processing your request. Please try again later.
 
-Make me an auto wikipedia editor and writer. It would use chatgt 4 with api key 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 to run. it should be able to edit a specific person and you can point it to a url or keyword surronded what you want to add or a compeltely new page that it would source write it and submit it properly sourced
+Make me an auto wikipedia editor and writer. It would use chatgt 4 with api key sk- to run. it should be able to edit a specific person and you can point it to a url or keyword surronded what you want to add or a compeltely new page that it would source write it and submit it properly sourced
 
 An error occurred while processing your request: The model: gpt-4-0613 does not exist. Please try again later.
 
 Make me an auto wikipedia editor and writer. It would use chatgt 3.5
-with api key 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 to run. it should be able to edit a specific person and you can point it to a url or keyword surronded what you want to add or a compeltely new page that it would source write it and submit it properly sourced
+with api key sk- to run. it should be able to edit a specific person and you can point it to a url or keyword surronded what you want to add or a compeltely new page that it would source write it and submit it properly sourced
 Make me an auto wikipedia editor and writer. It would use chatgt 4 with api key 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 to run. it should be able to edit a specific person and you can point it to a url or keyword surronded what you want to add or a compeltely new page that it would source write it and submit it properly sourced
 
 To create an auto Wikipedia editor and writer, we will need to install the necessary dependencies and set up the project. Here are the steps to get started:
